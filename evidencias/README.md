@@ -1,21 +1,16 @@
-# Swagger UI Screenshots
+# Evidencias Swagger UI
 
-## Image 1
-![Image 1](./evidencias/image-1.png)
-Description for Image 1.
+## Screenshot 1
+![Swagger UI](./image-1.png)
 
-## Image 2
-![Image 2](./evidencias/image-2.png)
-Description for Image 2.
+## Screenshot 2
+![Swagger UI](./image-2.png)
 
-## Image 3
-![Image 3](./evidencias/image-3.png)
-Description for Image 3.
+## Screenshot 3
+![Swagger UI](./image-3.png)
 
-## Image 4
-![Image 4](./evidencias/image-4.png)
-Description for Image 4.
+## Screenshot 4
+![Swagger UI](./image-4.png)
 
-## Image
-![Image](./evidencias/image.png)
-Description for Image.
+
+![alt text](image-5.png)
